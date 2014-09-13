@@ -3,7 +3,8 @@ WGG 8/17/2014
 tutorial from: http://cwbuecheler.com/web/tutorials/2014/restful-web-app-node-express-mongodb/
 
 this uri is showing json output of the db http://localhost:3000/users/userlist
-stopped at: Got it? Cool. Save that file and let's hit our browser and take a look. 
+
+stopped at: You'll note that all of this happened without any kind of a page refresh, which is what we're looking for here
 
 Mongo DB WG 9/12/2014
 
